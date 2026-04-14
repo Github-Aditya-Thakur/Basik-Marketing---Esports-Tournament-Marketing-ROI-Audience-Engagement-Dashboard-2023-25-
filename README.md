@@ -43,11 +43,13 @@ We built a **multi‑page Power BI dashboard** that:
 - **Platform**
 - **Channel**
 
-## Example Insights
-- A few **top channels drive most conversions**
-- Engagement peaks around specific esports events
-- Certain platforms consistently outperform others
-- Spend vs conversions reveals ROI differences across channels
+## Final Insights (Derived from Visuals)
+- **PR and Organic channels** deliver the strongest conversion performance, outperforming other channels in volume.
+- **Twitch, Instagram, and YouTube** lead platform‑level conversions and clicks, with Twitter trailing behind.
+- **Engagement peaks** align with major esports event dates, suggesting event‑driven campaigns are most effective.
+- **Regional engagement** is highest in **North America**, followed by EU and APAC (based on donut split).
+- **Spend vs. conversions** shows diminishing returns for some channels, highlighting the need to optimize budget allocation.
+- A **small set of events** drives the majority of conversions, indicating clear “hero events” to prioritize.
 
 ## Files in this Repo
 - `.pbix` Power BI report file  
